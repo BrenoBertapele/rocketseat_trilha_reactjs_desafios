@@ -8,24 +8,24 @@
 
 ### Chapter I
 
--> [Desafio 01 - Conceitos do React]
--> [Desafio 02 - Componentizando a aplicação]
+<p> -> [Desafio 01 - Conceitos do React] -> https://github.com/BrenoBertapele/rocketseat_trilha_reactjs_desafios/tree/main/chapter-I-desafio-01-conceitos-do-react </p>
+<p> -> [Desafio 02 - Componentizando a aplicação] </p>
 
 ### Chapter II
 
--> [Desafio 01 - Criando um hook de carrinho de compras]
--> [Desafio 02 - Refactoring de classes e TypeScript]
+<p>-> [Desafio 01 - Criando um hook de carrinho de compras] </p>
+<p>-> [Desafio 02 - Refactoring de classes e TypeScript] </p>
 
 ### Chapter III
 
--> [Desafio 01 - Criando uma aplicação do zero]
--> [Desafio 02 - Adicionando features ao blog]]
+<p>-> [Desafio 01 - Criando uma aplicação do zero] </p>
+<p>-> [Desafio 02 - Adicionando features ao blog]] </p>
 
 ### Chapter IV
 
--> [Desafio 01 - Interface com Chakra UI]
--> [Desafio 02 - Upload de imagens]
+<p>-> [Desafio 01 - Interface com Chakra UI] </p>
+<p>-> [Desafio 02 - Upload de imagens] </p>
 
 ### Chapter V
 
--> [Desafio 01 - Otimizando a aplicação]
+<p>-> [Desafio 01 - Otimizando a aplicação] </p>
