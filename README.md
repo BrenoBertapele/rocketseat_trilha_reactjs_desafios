@@ -9,7 +9,7 @@
 ### Chapter I
 
 <p> -> [Desafio 01 - Conceitos do React] -> https://github.com/BrenoBertapele/rocketseat_trilha_reactjs_desafios/tree/main/chapter-I-desafio-01-conceitos-do-react </p>
-<p> -> [Desafio 02 - Componentizando a aplicação] </p>
+<p> -> [Desafio 02 - Componentizando a aplicação] -> https://github.com/BrenoBertapele/rocketseat_trilha_reactjs_desafios/tree/main/chapter-I-desafio-02-componentizando-a-aplicacao </p> 
 
 ### Chapter II
 
