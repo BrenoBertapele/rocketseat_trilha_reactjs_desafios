@@ -13,8 +13,8 @@
 
 ### Chapter II
 
-<p>-> [Desafio 01 - Criando um hook de carrinho de compras] </p>
-<p>-> [Desafio 02 - Refactoring de classes e TypeScript] </p>
+<p>-> [Desafio 01 - Criando um hook de carrinho de compras] -> https://github.com/BrenoBertapele/rocketseat_trilha_reactjs_desafios/tree/main/chapter-II-desafio-01-criando-um-hook-de-carrinho-de-compras </p>
+<p>-> [Desafio 02 - Refactoring de classes e TypeScript] -> https://github.com/BrenoBertapele/rocketseat_trilha_reactjs_desafios/tree/main/chapter-II-desafio-02-refactoring-classes-ts </p>
 
 ### Chapter III
 
