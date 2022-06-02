@@ -19,7 +19,6 @@
 ### Chapter III
 
 <p>-> [Desafio 01 - Criando uma aplicação do zero] </p>
-<p>-> [Desafio 02 - Adicionando features ao blog] </p>
 
 ### Chapter IV
 
@@ -29,3 +28,7 @@
 ### Chapter V
 
 <p>-> [Desafio 01 - Otimizando a aplicação] </p>
+
+### Chapter VI
+
+<p>-> [Desafio 01 - Deploy da aplicação] </p>
