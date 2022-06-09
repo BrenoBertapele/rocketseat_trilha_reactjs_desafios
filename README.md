@@ -27,6 +27,5 @@
 
 ### Chapter V
 
-
 <p>-> [Desafio 01 - Otimizando a aplicação] </p>
 
